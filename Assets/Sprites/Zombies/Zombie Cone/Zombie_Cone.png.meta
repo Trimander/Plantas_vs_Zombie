@@ -1,0 +1,830 @@
+fileFormatVersion: 2
+guid: a63e81ae8b3fa7d49b349f3531ec5890
+timeCreated: 1507597335
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Zombie_Cone_0
+    21300002: Zombie_Cone_1
+    21300004: Zombie_Cone_2
+    21300006: Zombie_Cone_3
+    21300008: Zombie_Cone_4
+    21300010: Zombie_Cone_5
+    21300012: Zombie_Cone_6
+    21300014: Zombie_Cone_7
+    21300016: Zombie_Cone_8
+    21300018: Zombie_Cone_9
+    21300020: Zombie_Cone_10
+    21300022: Zombie_Cone_11
+    21300024: Zombie_Cone_12
+    21300026: Zombie_Cone_13
+    21300028: Zombie_Cone_14
+    21300030: Zombie_Cone_15
+    21300032: Zombie_Cone_16
+    21300034: Zombie_Cone_17
+    21300036: Zombie_Cone_18
+    21300038: Zombie_Cone_19
+    21300040: Zombie_Cone_20
+    21300042: Zombie_Cone_21
+    21300044: Zombie_Cone_22
+    21300046: Zombie_Cone_23
+    21300048: Zombie_Cone_24
+    21300050: Zombie_Cone_25
+    21300052: Zombie_Cone_26
+    21300054: Zombie_Cone_27
+    21300056: Zombie_Cone_28
+    21300058: Zombie_Cone_29
+    21300060: Zombie_Cone_30
+    21300062: Zombie_Cone_31
+    21300064: Zombie_Cone_32
+    21300066: Zombie_Cone_33
+    21300068: Zombie_Cone_34
+    21300070: Zombie_Cone_35
+    21300072: Zombie_Cone_36
+    21300074: Zombie_Cone_37
+    21300076: Zombie_Cone_38
+    21300078: Zombie_Cone_39
+    21300080: Zombie_Cone_40
+    21300082: Zombie_Cone_41
+    21300084: Zombie_Cone_42
+    21300086: Zombie_Cone_43
+    21300088: Zombie_Cone_44
+    21300090: Zombie_Cone_45
+    21300092: Zombie_Cone_46
+    21300094: Zombie_Cone_47
+    21300096: Zombie_Cone_48
+    21300098: Zombie_Cone_49
+    21300100: Zombie_Cone_50
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 105
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zombie_Cone_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2039
+        width: 128
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_1
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 2039
+        width: 129
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_2
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 2039
+        width: 134
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_3
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 2039
+        width: 134
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_4
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 2039
+        width: 138
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_5
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 2039
+        width: 142
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_6
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 2039
+        width: 146
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1749
+        width: 148
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_8
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1749
+        width: 151
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_9
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1749
+        width: 155
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_10
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1749
+        width: 158
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_11
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1749
+        width: 161
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_12
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1749
+        width: 155
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_13
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1749
+        width: 152
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1458
+        width: 147
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_15
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1458
+        width: 144
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_16
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1458
+        width: 144
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_17
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1458
+        width: 137
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_18
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1458
+        width: 135
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_19
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1458
+        width: 131
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_20
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1458
+        width: 128
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1169
+        width: 127
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_22
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1169
+        width: 124
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_23
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1169
+        width: 125
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_24
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1169
+        width: 120
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_25
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1169
+        width: 120
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_26
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1169
+        width: 118
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_27
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1169
+        width: 116
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_28
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 879
+        width: 116
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_29
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 879
+        width: 113
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_30
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 879
+        width: 115
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_31
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 879
+        width: 119
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_32
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 879
+        width: 123
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_33
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 879
+        width: 125
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_34
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 879
+        width: 131
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_35
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 589
+        width: 131
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_36
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 589
+        width: 135
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_37
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 589
+        width: 139
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_38
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 589
+        width: 138
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_39
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 579
+        width: 138
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_40
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 589
+        width: 136
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_41
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 589
+        width: 136
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_42
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 298
+        width: 131
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_43
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 298
+        width: 131
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_44
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 298
+        width: 130
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_45
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 298
+        width: 123
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_46
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 298
+        width: 120
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_47
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 298
+        width: 121
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_48
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 298
+        width: 123
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_49
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 8
+        width: 126
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zombie_Cone_50
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 8
+        width: 126
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
