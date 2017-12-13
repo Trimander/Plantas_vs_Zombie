@@ -1,0 +1,42 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 720M (ID=0x1140)
+    Vendor:   NVIDIA
+    VRAM:     973 MB
+    Driver:   23.21.13.8813
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Guilherme\Documents\IFMG\6° Periodo\Desenvolvimento de Jogos\Planta_vs_Zombie_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Guilherme\Documents\IFMG\6° Periodo\Desenvolvimento de Jogos\Planta_vs_Zombie_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Guilherme\Documents\IFMG\6° Periodo\Desenvolvimento de Jogos\Planta_vs_Zombie_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Guilherme\Documents\IFMG\6° Periodo\Desenvolvimento de Jogos\Planta_vs_Zombie_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Guilherme\Documents\IFMG\6° Periodo\Desenvolvimento de Jogos\Planta_vs_Zombie_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Guilherme\Documents\IFMG\6° Periodo\Desenvolvimento de Jogos\Planta_vs_Zombie_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Guilherme\Documents\IFMG\6° Periodo\Desenvolvimento de Jogos\Planta_vs_Zombie_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Guilherme\Documents\IFMG\6° Periodo\Desenvolvimento de Jogos\Planta_vs_Zombie_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Guilherme\Documents\IFMG\6° Periodo\Desenvolvimento de Jogos\Planta_vs_Zombie_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Guilherme\Documents\IFMG\6° Periodo\Desenvolvimento de Jogos\Planta_vs_Zombie_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.875 seconds
+Platform assembly: C:\Users\Guilherme\Documents\IFMG\6° Periodo\Desenvolvimento de Jogos\Planta_vs_Zombie_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Guilherme\Documents\IFMG\6° Periodo\Desenvolvimento de Jogos\Planta_vs_Zombie_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.055878 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.904834 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1348.
+Total: 2.323445 ms (FindLiveObjects: 0.120598 ms CreateObjectMapping: 0.075053 ms MarkObjects: 0.597860 ms  DeleteObjects: 1.528008 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.474765 ms
+
+Unloading 521 unused Assets to reduce memory usage. Loaded Objects now: 334.
+Total: 7.019729 ms (FindLiveObjects: 0.066714 ms CreateObjectMapping: 0.046828 ms MarkObjects: 0.263007 ms  DeleteObjects: 6.641896 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1c64 -> priority: 1 
+  Thread -> id: 1894 -> priority: 1 
